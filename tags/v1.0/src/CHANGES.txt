@@ -1,0 +1,6 @@
+﻿PDFBinder changelog
+===================
+
+Version 1.0
+-----------
+  * First public release.
